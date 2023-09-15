@@ -1,2 +1,0 @@
-// JS
-import "./form.js"
