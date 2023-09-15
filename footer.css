@@ -1,0 +1,37 @@
+footer {
+
+        background-color: none;
+        width: 100%;
+        height: auto;
+
+        
+    }
+
+    img {
+        width: 120px;
+        height: auto;
+    }
+
+    
+
+    a.logo-link {
+        transition: transform 0.3s ease-in-out;
+        display: inline-block;
+    }
+
+    a.logo-link:hover {
+        transform: scale(1.1);
+    }
+
+    img.logo {
+        width: 150px;
+        height: auto;
+    }
+
+    @media screen and (min-width: 1265px) {
+        .footer-main img {
+            width: 180px;
+            height: auto;
+        }
+
+    }
