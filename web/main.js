@@ -1,8 +1,8 @@
 // JS
-import "./form.js"
+import "web/form.js"
 
 // CSS
-import "./styles/base.css"
-import "./styles/app.css"
-import "./styles/form.css"
-import "./styles/footer.css"
+import "web/styles/base.css"
+import "web/styles/app.css"
+import "web/styles/form.css"
+import "web/styles/footer.css"
