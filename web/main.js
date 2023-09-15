@@ -1,2 +1,2 @@
 // JS
-import "./web/form.js"
+import "./form.js"
